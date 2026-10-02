@@ -7,5 +7,5 @@
 
 Hacker 101 CTF 
 
-MICRO CMS V2 ....(Im starting it from here because I figured it was somewhat easier before..)
+MICRO CMS V2 ....(Im starting it from here because I figured it was somewhat easier before..) Oct 2
     -- On this Exercise w
