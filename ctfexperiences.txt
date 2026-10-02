@@ -1,0 +1,11 @@
+- TEST FOR SQL INJECTIONS :   use ' to check for any weaknesses
+- XSS can be easily done by using <script></script> and others like on hover features in html or adding stuff in requests
+
+
+
+
+
+Hacker 101 CTF 
+
+MICRO CMS V2 ....(Im starting it from here because I figured it was somewhat easier before..)
+    -- On this Exercise w
