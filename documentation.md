@@ -60,3 +60,5 @@ MICRO CMS V2 ....(Im starting it from here because I figured it was somewhat eas
     js
     ' UNION select 'xyz';-- with xyz as password for payload
     Yaaay it worked I hav eno idea why though I even had to cheat to get the freaking code because heck m i supposed to find it 
+    HAD TO SETUP WSL AND OTHER STUFF PLUS VM FOR BETTER WAY OF DOING THESE
+    YESSIR ANYWAYS WE CONTINUE FROM OCTOBER FOUR
